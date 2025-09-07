@@ -9,7 +9,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
-    { title: '访问文档中心获取更多帮助', url: 'https://www.wangz.icu/category/%E5%BF%83%E6%83%85%E9%9A%8F%E7%AC%94' }
+    { title: '心情随笔', url: 'https://www.wangz.icu/category/%E5%BF%83%E6%83%85%E9%9A%8F%E7%AC%94' }
   ],
 
   // 英雄区左右侧组件颠倒位置
