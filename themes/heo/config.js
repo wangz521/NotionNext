@@ -54,7 +54,7 @@ const CONFIG = {
   HEO_INFO_CARD_URL2: 'https://github.com/userwzking',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
   HEO_INFO_CARD_URL3: 'https://space.bilibili.com/3546597682055470?spm_id_from=333.1007.0.0',
-  HEO_INFO_CARD_TEXT3: 'fab fa-bilibili',
+  HEO_INFO_CARD_TEXT3: '哔哩哔哩',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
