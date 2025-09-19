@@ -75,7 +75,7 @@ const LayoutBase = props => {
   )
 
 
-<link rel="stylesheet" href="public/css/custom.css">  //引入css到主题
+<link rel="stylesheet" href="/css/custom.css">  //引入css到主题
 
     
   // 右侧栏 用户信息+标签列表
