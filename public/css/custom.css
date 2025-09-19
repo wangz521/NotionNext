@@ -6,3 +6,45 @@
 .fa-info:before {
     content: "\f05a";
 }
+
+
+/* =============
+   自定义主色调：天蓝色 #87CEEB
+   适配 #theme-fukasawa 主题
+   ============= */
+
+#theme-fukasawa a {
+    color: #87CEEB !important;
+}
+
+#theme-fukasawa a:hover {
+    color: #00BFFF !important;
+    text-decoration: underline;
+}
+
+#theme-fukasawa button,
+#theme-fukasawa .btn,
+#theme-fukasawa input[type="submit"] {
+    background-color: #87CEEB !important;
+    border-color: #87CEEB !important;
+    color: white !important;
+}
+
+#theme-fukasawa button:hover,
+#theme-fukasawa .btn:hover {
+    background-color: #5FADCC !important;
+    border-color: #5FADCC !important;
+}
+
+/* 标题颜色（可选，提高可读性） */
+#theme-fukasawa h1,
+#theme-fukasawa h2,
+#theme-fukasawa h3 {
+    color: #2C5D7A !important;
+}
+
+/* 分割线颜色 */
+#theme-fukasawa hr {
+    border-color: #87CEEB !important;
+    opacity: 0.2 !important;
+}
