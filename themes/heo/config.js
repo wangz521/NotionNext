@@ -4,11 +4,11 @@ const CONFIG = {
 
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2025-09-16', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
+    { title: '欢迎来到我的博客', url: 'https://www.wangz.icu/' },
     { title: '心情随笔', url: 'https://www.wangz.icu/category/%E5%BF%83%E6%83%85%E9%9A%8F%E7%AC%94' }
   ],
 
@@ -39,11 +39,11 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '你好！我是',
+    '追求简单幸福的生活',
     '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
+    '🤝 电脑问题终结者',
     '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
+    '🏠 天蝎座的冷漠专一',
     '🤖️ 数码科技爱好者',
     '🧱 团队小组发动机'
   ],
@@ -51,10 +51,10 @@ const CONFIG = {
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://github.com/tangly1024',
+  HEO_INFO_CARD_URL2: 'https://github.com/userwzking',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://www.tangly1024.com',
-  HEO_INFO_CARD_TEXT3: '了解更多',
+  HEO_INFO_CARD_URL3: 'https://space.bilibili.com/3546597682055470?spm_id_from=333.1007.0.0',
+  HEO_INFO_CARD_TEXT3: 'fab fa-bilibili',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
