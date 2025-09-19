@@ -74,6 +74,10 @@ const LayoutBase = props => {
     </header>
   )
 
+
+<link rel="stylesheet" href="public/css/custom.css">  //引入css到主题
+
+    
   // 右侧栏 用户信息+标签列表
   const slotRight =
     router.route === '/404' || fullWidth ? null : <SideRight {...props} />
